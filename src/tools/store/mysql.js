@@ -8,7 +8,7 @@ const dbconf = {
     user: config.mysql.user,
     password: config.mysql.password,
     database: config.mysql.database,
-    connectTimeout: 20000,
+    connectTimeout: 40000,
 };
 
 
